@@ -1,3 +1,1 @@
 Acesse em: [Projeto Online](https://explorer-repositories.netlify.app)
-
-Em breve vou melhorar esse readme! Aguardem...
